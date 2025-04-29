@@ -11,7 +11,7 @@
       </p>
     </td>
     <td style="width:40%; vertical-align: top;">
-      <img src="https://github.com/user-attachments/assets/b973cbc4-c710-4289-82c3-e7be462ab038" alt="SHP2 Project Image" width="250"/>
+      <img src="https://github.com/user-attachments/assets/b973cbc4-c710-4289-82c3-e7be462ab038" alt="SHP2 Project Image" width="500"/>
     </td>
   </tr>
 </table>
